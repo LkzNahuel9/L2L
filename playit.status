@@ -1,4266 +1,455 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1720325622728 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1720328278316 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325625779 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328281359 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325628815 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328284411 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325631854 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328287452 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325634898 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328290494 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325637951 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328293532 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325641004 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328296581 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325644072 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328299611 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325647108 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328302645 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325650161 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328305686 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325653223 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328308720 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325656275 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328311751 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325659330 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328314783 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325662418 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328317843 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325665518 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328320891 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325668566 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328323945 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325671607 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328326991 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325674650 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328330043 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325677684 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328333095 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325680743 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328336163 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325683815 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328339203 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325686899 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328342265 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325689992 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328345303 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325693029 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328348343 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325696081 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328351424 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325699162 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328354491 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325702220 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328357534 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325705252 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328360581 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325708364 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328363675 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325711439 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328366705 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325714503 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328369764 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325717548 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328372810 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325720597 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328375854 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325723697 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328378916 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325726745 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328381968 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325729793 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328385057 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325732850 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328388110 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325735906 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328391186 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325738960 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328394219 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325742026 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328397251 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325745080 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328400291 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325748206 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328403514 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325751243 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328406605 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325754300 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328409790 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325757382 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328412890 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325760428 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328416007 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325763487 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328419066 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325766531 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328422101 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325769583 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328425203 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325772646 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328428251 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325775696 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328431297 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325778756 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328434397 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325781808 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328437446 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325784857 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328440498 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325787889 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328443557 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325790946 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328446616 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325793994 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328449965 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325797166 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328454134 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325800232 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328457196 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325803282 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328460283 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325806323 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328463355 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325809382 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328466384 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325812428 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328469420 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325815487 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328472470 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325818527 tunnel running, 1 tunnels registered
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720328475547 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325821567 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325824690 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325827724 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325830757 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325833797 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325836865 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325839915 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325842952 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325845995 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325849115 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325852178 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325855247 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325858288 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325861322 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325864375 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325867426 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325870530 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325873646 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325876686 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325879758 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325882812 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325885879 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325888912 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325891989 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325895061 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325898118 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325901187 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325904229 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325907283 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325910333 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325913376 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325916466 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325919542 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325922659 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325925749 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325928836 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325931876 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325934973 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325938023 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325941062 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325944113 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325947256 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325950335 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325953398 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325956442 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325959501 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325962554 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325965598 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325968651 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325971712 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325974781 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325977835 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325980878 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325983920 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325986956 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325990084 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325993159 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325996208 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720325999259 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326002481 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326005530 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326008585 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326011669 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326014762 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326017825 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326020876 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326023928 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326026966 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326030005 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326033044 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326036089 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326039140 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326042221 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326045271 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326048336 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326051376 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326054410 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326057476 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326060538 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326063576 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326066648 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326069702 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326072731 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326075783 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326078847 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326082032 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326085104 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326088137 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326091178 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326094249 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326097293 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326100352 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326103386 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326106439 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326109536 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326112610 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326115679 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326118717 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326121755 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326124795 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326127874 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326130968 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326134001 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326137052 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326140092 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326143129 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326146167 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326149204 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326152240 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326155302 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326158379 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326161431 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326164479 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326167592 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326170625 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326173679 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326176726 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326179799 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326182828 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326185883 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326188932 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326192025 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326195138 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326198174 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326201235 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326204293 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326207334 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326210384 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326213450 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326216510 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326219549 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326222587 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326225639 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326228691 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326231742 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326234796 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326237869 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326240954 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326244082 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326247293 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326250347 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326253438 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326256479 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326259516 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326262574 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326265672 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326268764 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326271814 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326274849 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326277884 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326280947 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326284002 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326287054 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326290085 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326293156 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326296201 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326299252 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326302337 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326305372 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326308451 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326311485 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326314522 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326317572 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326320604 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326323671 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326326729 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326329793 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326332921 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326335970 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326339057 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326342095 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326345130 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326348184 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326351237 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326354315 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326357368 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326360416 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326363499 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326366533 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326369642 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326372677 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326375713 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326378786 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326381845 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326384901 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326387948 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326391007 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326394080 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326397154 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326400197 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326403266 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326406329 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326409375 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326412429 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326415471 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326418509 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326421557 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326424639 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326427681 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326430718 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326433767 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326436803 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326439842 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326442873 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326445932 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326449031 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326452071 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326455108 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326458158 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326461212 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326464261 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326467310 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326470424 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326473498 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326476540 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326479625 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326482708 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326485777 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326488831 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326491873 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326494917 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326497952 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326501024 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326504078 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326507152 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326510212 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326513307 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326516353 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326519434 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326522561 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326525664 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326528766 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326531812 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326534859 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326537917 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326540979 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326544014 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326547047 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326550098 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326553149 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326556201 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326559292 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326562361 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326565422 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326568531 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326571615 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326574685 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326577724 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326580789 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326583824 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326586857 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326589908 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326592958 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326596003 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326599051 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326602178 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326605218 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326608266 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326611323 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326614385 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326617455 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326620487 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326623568 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326626601 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326629639 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326632676 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326635738 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326638806 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326641873 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326644921 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326647955 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326651021 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326654058 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326657090 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326660136 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326663181 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326666235 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326669304 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326672335 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326675438 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326678489 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326681533 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326684621 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326687671 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326690712 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326693758 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326696788 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326699824 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326702855 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326705936 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326708991 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326712037 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326715103 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326718165 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326721227 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326724323 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326727416 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326730479 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326733528 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326736568 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326739626 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326742674 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326745709 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326748747 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326751821 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326754895 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326757998 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326761084 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326764197 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326767253 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326770297 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326773342 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326776436 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326779489 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326782542 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326785595 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326788632 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326791671 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326794725 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326797773 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326800836 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326803933 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326807028 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326810078 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326813141 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326816178 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326819212 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326822267 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326825308 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326828386 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326831424 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326834462 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326837508 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326840577 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326843649 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326846755 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326849790 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326852864 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326855963 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326859013 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326862064 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326865121 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326868202 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326871288 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326874333 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326877382 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326880431 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326883465 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326886513 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326889543 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326892592 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326895625 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326898656 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326901757 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326904844 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326907895 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326910944 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326913991 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326917093 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326920179 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326923242 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326926276 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326929397 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326932489 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326935637 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326938698 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326941795 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326944850 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326947889 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326950936 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326953994 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326957038 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326960086 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326963140 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326966191 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326969270 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326972324 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326975381 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326978431 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326981485 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326984533 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326987577 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326990625 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326993684 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326996729 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720326999786 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327002862 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327005914 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327009034 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327012111 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327015171 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327018230 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327021283 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327024317 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327027355 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327030414 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327033451 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327036544 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327039576 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327042610 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327045653 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327048734 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327051821 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327054989 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327058033 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327061069 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327064103 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327067139 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327070171 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327073209 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327076290 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327079374 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327082407 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327085554 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327088600 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327091665 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327094708 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327097752 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327100803 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327103838 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327106877 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327109932 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327112962 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327116054 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327119141 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327122222 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327125267 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327128313 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327131361 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327134404 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327137448 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327140639 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327143669 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327146761 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327149841 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327152896 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327155935 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327158998 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327162066 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327165134 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327168195 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327171244 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327174295 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327177346 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327180386 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327183424 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327186485 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327189539 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327192582 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327195628 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327198705 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327201758 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327204806 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327207883 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327210936 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327213981 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327217070 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327220117 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327223155 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327226190 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327229223 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327232257 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327235307 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327238353 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327241402 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327244455 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327247495 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327250538 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327253570 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327256605 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327259688 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327262809 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327265840 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327268948 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327272015 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327275053 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327278085 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327281128 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327284219 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327287302 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327290341 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327293408 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327296454 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327299504 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327302550 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327305584 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327308616 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327311666 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327314715 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327317778 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327320836 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327323874 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327326914 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327329982 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327333065 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327336122 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327339162 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327342236 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327345272 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327348306 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327351391 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327354432 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327357467 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327360557 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327363599 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327366673 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327369705 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327372748 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327375800 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327378852 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327381973 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327385016 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327388047 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327391091 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327394308 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327397356 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327400423 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327403488 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327406542 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327409595 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327412639 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327415712 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327418789 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327421823 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327424857 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327427947 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327430983 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327434013 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327437062 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327440109 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327443149 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327446181 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327449216 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327452265 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327455339 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327458409 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327461451 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327464505 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327467559 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327470607 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327473663 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327476726 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327479802 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327482834 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327485894 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327488932 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327491973 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327495031 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327498068 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327501148 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327504199 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327507235 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327510280 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327513325 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327516386 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327519489 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327522572 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327525621 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327528671 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327531729 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327534779 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327537852 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327540916 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327543949 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327546997 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327550049 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327553098 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327556130 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327559177 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327562256 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327565313 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327568365 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327571417 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327574466 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327577509 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327580565 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327583613 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327586692 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327589740 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327592779 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327595812 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327598885 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327601933 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327604970 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327608005 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327611074 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327614152 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327617214 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327620252 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327623313 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327626389 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327629425 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327632457 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327635525 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327638570 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327641623 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327644698 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327647765 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327650815 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327653870 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327656916 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327659947 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327662990 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327666018 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327669093 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327672150 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327675197 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327678226 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327681267 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327684305 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327687356 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327690406 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327693498 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327696558 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327699610 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327702683 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327705734 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327708792 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327711856 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327714955 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327718028 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327721072 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327724109 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327727143 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327730206 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327733263 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327736313 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327739372 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327742474 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327745521 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327748579 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327751643 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327754702 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327757740 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327760781 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327763850 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327766893 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327769959 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327773004 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327776071 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327779185 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327782246 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327785312 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327788376 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327791454 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720327794522 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-specified-process.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+river-iraqi.gl.at.ply.gg:4475 => 127.0.0.1:4475 (minecraft-bedrock)
